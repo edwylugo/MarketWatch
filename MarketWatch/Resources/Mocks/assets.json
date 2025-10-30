@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc",
+      "currency": "USD"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp",
+      "currency": "USD"
+    },
+    {
+      "symbol": "BTC/USD",
+      "name": "Bitcoin",
+      "currency": "USD"
+    },
+    {
+      "symbol": "ETH/USD",
+      "name": "Ethereum",
+      "currency": "USD"
+    }
+  ]
+}

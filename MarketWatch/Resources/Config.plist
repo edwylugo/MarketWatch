@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TWELVE_DATA_API_KEY</key>
+	<string>3a1f8a48d5e84915b9878f2643bdd89f</string>
+	<key>TWELVE_DATA_BASE_URL</key>
+	<string>https://api.twelvedata.com</string>
+</dict>
+</plist>
